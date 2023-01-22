@@ -18,4 +18,4 @@ management:
         include: "*"
 
 test:
-  name: jinghua
+  name: "{cipher}b335bebd5879eb3c21849430ded6bdb4269fc7938dbeb508f665b58e69684db9"
